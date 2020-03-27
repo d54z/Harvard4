@@ -1,0 +1,35 @@
+h1 {
+  color:aqua;
+  text-align: center ;
+}
+table {
+  border: 4px solid black;
+  border-collapse: collapse;
+  margin: 2px
+
+}
+th {
+  background-color: lightgray;
+  color: black ;
+  border : 1px solid black ;
+padding: 15px ;
+text-align:centre;
+}
+td {
+  color: red ;
+  border : 1px solid black;
+padding: 15px ;
+text-align:center;
+}
+button {
+  margin-left : 50px
+}
+#parg {
+  font-size: 36px;
+  
+}
+
+.name {
+  font-weight: bold;
+  color: red ;
+}
